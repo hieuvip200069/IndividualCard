@@ -1,0 +1,36 @@
+body {
+    background-color: #CF1084;
+    text-align: center;
+}
+
+.Profile .button {
+  background-color: #ddd;
+  width: 80%;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.Profile .button .fa {
+    width: 20%;
+    border-radius: 12px;
+}
+
+img {
+  margin-top: 10%;
+  width: 40%;
+  border-radius: 50%;
+  border:20px black; 
+  margin-bottom: 14%;
+}
+
+.imgd{
+    border: double #CF1084 black;
+}
+
